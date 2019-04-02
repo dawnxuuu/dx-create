@@ -1,0 +1,24 @@
+{
+  "name": "dx-create",
+  "version": "1.0.0",
+  "description": "快速创建各种示例工程",
+  "main": "index.js",
+  "bin": {
+    "dxc": "./index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawnxuuu/dx-create.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawnxuuu/dx-create/issues"
+  },
+  "homepage": "https://github.com/dawnxuuu/dx-create#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {}
+}
